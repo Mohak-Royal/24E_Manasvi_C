@@ -1,0 +1,54 @@
+1. Documentation :
+
+
+	//single
+
+	/*multiline*/
+		
+
+
+2. Link : 
+
+stdio.h
+conio.h
+
+
+Syntax: 
+
+
+#include<stdio.h>
+#include<conio.h>
+
+
+
+stdio : standard input output
+
+	-printf()
+	-scanf()
+
+
+conio : console input output
+
+	-clrscr()
+	-getch()
+
+
+3. Main method : main method is entry point of c
+
+
+
+void : empty
+
+
+
+
+void main(){
+	//code
+}
+
+
+
+
+
+
+
