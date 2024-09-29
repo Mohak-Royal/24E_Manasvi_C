@@ -1,0 +1,40 @@
+3. **Perimeter and Area of a Rectangle**
+   - Write a program that takes the length and width of a rectangle and calculates its perimeter and area.
+   - Formula:
+
+     Perimeter = 2 * (length + width)
+     Area = length * width
+
+   - Input: `Length = 5, Width = 3`
+   - Output: 
+
+     Perimeter: 16
+     Area: 15
+
+
+4. **Simple Interest Calculation**
+   - Write a program that calculates simple interest using the formula:
+
+     Simple Interest = (P * T * R) / 100
+
+     where `P` is the principal amount, `T` is time in years, and `R` is the rate of interest.
+   - Input: `P = 1000, T = 5, R = 10`
+   - Output: `Simple Interest: 500`
+
+5. **Temperature Conversion (Celsius to Fahrenheit)**
+   - Write a program to convert temperature from Celsius to Fahrenheit using the formula:
+
+     F = (C * 9/5) + 32
+
+   - Input: `Celsius = 25`
+   - Output: `Fahrenheit: 77`
+
+6. **Swapping Two Numbers Using a Temporary Variable**
+   - Write a C program that swaps the values of two variables using a temporary variable.
+   
+   - Input: `a = 3, b = 8`
+   
+   - Output: 
+     Before Swap: a = 3, b = 8
+     After Swap: a = 8, b = 3
+
